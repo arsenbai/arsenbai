@@ -1,8 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate as Java/Python dev based on non-paid internship opportunity<br>🌱 I’m currently learning:<br>
-  - 🌐 Currently: Web intro - JavaScript/VanillaJS, CSS, HTML, DOM, React, Redux<br>
-  - 🌐 Then: Web Advanced<br>💬 Ask me about MS Excel formulas and Python<br>
-⚡ Fun fact: I graduated from Art school and also earned MBA in accounting and finance
+🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate as Java/Python dev based on non-paid internship opportunity<br>🌱 I’m currently learning:
+<br>
+- [x] 🌐 Currently: Web intro - JavaScript/VanillaJS, CSS, HTML, DOM, React, Redux<br>
+- [ ] 🌐 Then: Web Advanced
+<br>
+💬 Ask me about MS Excel formulas and Python<br>⚡ Fun fact: I graduated from Art school and also earned MBA in accounting and finance<br><br>
+
 
 
 ## 🌐 Socials:
