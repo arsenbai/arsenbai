@@ -2,7 +2,7 @@
 🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate as Java/Python dev based on non-paid internship opportunity<br>🌱 I’m currently studying at Full-stack web development course:
 <br>
 - [x] 🌐 ✔ Complete: Web intro - JavaScript/VanillaJS, CSS, HTML, DOM, ReactJS, Redux<br>
-- [ ] 🌐 🔃 Currently: Web Advanced - NodeJS (Express)
+- [x] 🌐 ✔ Complete: Web Advanced - NodeJS (Express)
 <br>
 💬 Ask me about MS Excel formulas and Python<br>⚡ Fun fact: I graduated from Art school and also earned MBA in accounting and finance<br><br>
 
