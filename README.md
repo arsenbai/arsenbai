@@ -1,8 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate as Java/Python dev based on non-paid internship opportunity<br>🌱 I’m currently studying at Full-stack web development course:
+🔭 I work as Data analyst
+<br>🌱 I studied Full-stack web development, Python, and Java:
 <br>
-- [x] 🌐 ✔ Complete: Web intro - JavaScript/VanillaJS, CSS, HTML, DOM, ReactJS, Redux<br>
-- [x] 🌐 ✔ Complete: Web Advanced - NodeJS (Express)
+- [x] Completed: "Intro to Computer Science" course using Java at well-known in Kazakhstan programming school [nFactorial](https://www.nfactorial.school/) - see certificate [here](https://drive.google.com/file/d/1eQ6VO8e3IEbsjv7IdFobh41SuQBkdWnR/view?usp=sharing)
+- [x] Completed: Web intro - JavaScript/VanillaJS, CSS, HTML, DOM, ReactJS, Redux<br>
+- [x] Completed: Web Advanced - NodeJS (Express)
+- [x] Completed: Python course - see certificate in Russian language [here](https://drive.google.com/file/d/1s8ujPfSZ6dlatddINsu-yZMb6MwIf9HY/view?usp=sharing)
 <br>
 💬 Ask me about MS Excel formulas and Python<br>⚡ Fun fact: I graduated from Art school and also earned MBA in accounting and finance<br><br>
 
